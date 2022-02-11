@@ -547,7 +547,7 @@ HTML 中的每一个元素都可以看做是一个盒子，缩写时顺时针方
 
 ​	HTML 或者 body 元素的背景都能够延伸到整个文档画布
 
-**Normal Flow：**标准流（从左到右，从上到下；互相之间不存在层叠）
+**Normal Flow**：标准流（从左到右，从上到下；互相之间不存在层叠）
 
 **比较明显的缺点**
 
@@ -836,7 +836,7 @@ flex 布局（Flexible 布局，弹性布局）是在小程序开发经常适用
 
 #### flex 布局模型
 
-![image-20200816162132501](/Users/qipeng/Library/Application Support/typora-user-images/image-20200816162132501.png)
+![image](https://user-images.githubusercontent.com/27857229/153575986-7cb9db1d-bf6d-47eb-bde9-c492d12d0840.png)
 
 #### flex-direction
 
