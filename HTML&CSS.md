@@ -136,7 +136,7 @@ div p pre h1~h6 ul ol...
 
   ```css
   * {
-  	/* TODO */  
+    /* TODO */  
   }
   ```
 
@@ -144,7 +144,7 @@ div p pre h1~h6 ul ol...
 
   ```css
   div {
-  	/* TODO */
+    /* TODO */
   }
   ```
 
@@ -152,7 +152,7 @@ div p pre h1~h6 ul ol...
 
   ```css
   #title {
-  	/* TODO */	
+    /* TODO */	
   }
   ```
 
@@ -160,7 +160,7 @@ div p pre h1~h6 ul ol...
 
   ```css
   [href="#top"] {
-  	/* TODO */
+    /* TODO */
   }
   ```
 
