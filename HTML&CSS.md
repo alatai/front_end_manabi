@@ -167,37 +167,49 @@ div p pre h1~h6 ul ol...
 * 后代选择器
 
   ```css
-  div span {	/* TODO */}
+  div span {	
+    /* TODO */
+  }
   ```
 
 * 子选择器
 
   ```css
-  div>span {	/* TODO */}
+  div>span {	
+    /* TODO */
+  }
   ```
 
 * 相邻兄弟选择器
 
   ```css
-  div+p {	/* TODO */}
+  div+p {	
+    /* TODO */
+  }
   ```
 
 * 全体兄弟选择器
 
   ```css
-  div~p {	/* TODO */}
+  div~p {	
+    /* TODO */
+  }
   ```
 
 * 交集选择器
 
   ```css
-  div.one#title {	/* TODO */}
+  div.one#title {	
+    /* TODO */
+  }
   ```
 
 * 并集选择器
 
   ```css
-  div, .one, #title {	/* TODO */}
+  div, .one, #title {	
+    /* TODO */
+  }
   ```
 
 #### 伪类
@@ -219,7 +231,9 @@ div p pre h1~h6 ul ol...
 * 否定伪类
 
   ```css
-  not(选择器){	/* TODO */}
+  not(选择器){	
+    /* TODO */
+  }
   ```
 
 #### 伪元素
