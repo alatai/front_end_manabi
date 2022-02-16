@@ -1,2 +1,2 @@
-# front_end_manabi
+# frontend_manabi
 It's a personal note.
